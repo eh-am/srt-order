@@ -42,7 +42,7 @@ const (
 	Content   Position = "Content"
 )
 
-func Process(filepath string) error {
+func Process(filepath string, inPlace bool) error {
 	file, err := os.Open(filepath)
 	if err != nil {
 		return err
@@ -107,23 +107,39 @@ func Process(filepath string) error {
 	// Sort based on Start
 	sort.Sort(ByStart(chunks))
 
-	f, err := os.CreateTemp("", "")
-	if err != nil {
-		return err
+	if inPlace {
+		f, err := os.CreateTemp("", "")
+		if err != nil {
+			return err
+		}
+
+		w := bufio.NewWriter(f)
+		for i, c := range chunks {
+			c.SeqNumber = strconv.Itoa(i + 1)
+
+			w.WriteString(c.SeqNumber + "\n")
+			w.WriteString(c.Timestamp + "\n")
+			for _, content := range c.Content {
+				w.WriteString(content + "\n")
+			}
+			w.WriteString("\n")
+		}
+		w.Flush()
+
+		// TODO: rename to the original file
+		os.Rename(f.Name(), filepath)
+		return nil
 	}
 
-	w := bufio.NewWriter(f)
 	for i, c := range chunks {
 		c.SeqNumber = strconv.Itoa(i + 1)
 
-		w.WriteString(c.SeqNumber + "\n")
-		w.WriteString(c.Timestamp + "\n")
+		fmt.Printf(c.SeqNumber + "\n")
+		fmt.Printf(c.Timestamp + "\n")
 		for _, content := range c.Content {
-			w.WriteString(content + "\n")
+			fmt.Printf(content + "\n")
 		}
-		w.WriteString("\n")
+		fmt.Printf("\n")
 	}
-	w.Flush()
-
 	return nil
 }

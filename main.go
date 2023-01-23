@@ -9,17 +9,20 @@ import (
 )
 
 func main() {
-	if len(os.Args) <= 1 {
-		fmt.Fprint(os.Stderr, "usage ./strorder {files}")
+	inPlace := flag.Bool("in-place", false, "substitute in place")
+	flag.Parse()
+
+	values := flag.Args()
+	if len(values) <= 0 {
+		fmt.Fprint(os.Stderr, "usage ./strorder {flags} {files}\n")
+		flag.PrintDefaults()
 		os.Exit(1)
 	}
-	wordPtr := flag.String("word", "foo", "a string")
 
-	files := os.Args[1:]
-	for _, f := range files {
-		err := internal.Process(f)
+	for _, f := range values {
+		err := internal.Process(f, *inPlace)
 		if err != nil {
-			fmt.Fprint(os.Stderr, "err: %w", err)
+			fmt.Fprintf(os.Stderr, "err: %v\n", err)
 			os.Exit(1)
 		}
 	}
