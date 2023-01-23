@@ -1,0 +1,2103 @@
+1
+00:02:33,040 --> 00:02:35,760
+{\3c&HC1604E&\2c&HC1604E&}{\k49}ta{\k15}tta {\k16}i{\k22}ma {\k29}ha{\k36}ji{\k34}me{\k17}te {\k13}ki{\k13}zu{\k20}i{\k8}ta
+
+3
+00:02:38,380 --> 00:02:41,010
+{\3c&HC1604E&\2c&HC1604E&}{\k30}ni{\k22}jyu{\k14}u{\k17}yo {\k18}ji{\k19}ka{\k14}n {\k31}ki{\k30}mi {\k16}ki{\k20}mi {\k26}ki{\k6}mi
+
+4
+00:02:41,010 --> 00:02:42,850
+{\3c&HA55FE1&\2c&HA55FE1&}{\k22}i{\k15}shi{\k7}ki {\k21}se{\k20}za{\k17}ru {\k34}o {\k16}e{\k10}ma{\k9}se{\k13}n
+
+5
+00:02:42,850 --> 00:02:45,560
+{\3c&HC1604E&\2c&HC1604E&}{\k19}{\k18}na{\k18}n{\k17}ka {\k32}{\3c&HA55FE1&\2c&HA55FE1&}(na{\k29}n{\k25}ka) {\3c&HC1604E&\2c&HC1604E&}{\k12}i{\k14}tsu{\k36}mo {\k14}to {\k18}chi{\k12}ga{\k5}u
+
+6
+00:02:45,560 --> 00:02:48,230
+{\3c&HC1604E&\2c&HC1604E&}{\k34}ki{\k14}mi {\k20}to {\k30}{\3c&HA55FE1&\2c&HA55FE1&}(fu{\k12}ta{\k24}ri){\3c&HC1604E&\2c&HC1604E&} {\k14}gi{\k17}ko{\k18}chi{\k17}na{\k17}i {\k14}ka{\k16}i{\k20}wa
+
+7
+00:02:48,230 --> 00:02:50,900
+{\3c&HC1604E&\2c&HC1604E&}{\k17}{\k10}ma{\k21}sa{\k18}ka {\k20}{\3c&HA55FE1&\2c&HA55FE1&}(ryo{\k13}u{\k33}o{\k18}mo{\k5}i){\3c&HC1604E&\2c&HC1604E&} {\k8}i{\k19}ya {\k34}ka{\k14}ta{\k19}o{\k15}mo{\k3}i
+
+8
+00:02:50,900 --> 00:02:53,420
+{\3c&HA55FE1&\2c&HA55FE1&}{\k16}{\k15}ya{\k15}ba{\k12}i {\k17}shi{\k25}se{\k14}n {\k34}a{\k34}ccha{\k70}tta
+
+9
+00:02:54,430 --> 00:02:57,140
+{\3c&HA55FE1&\2c&HA55FE1&}{\k15}{\k17}na{\k15}ni {\k31}na{\k34}ni {\k34}ko{\k19}no {\k31}do{\k35}ki {\k17}do{\k23}ki
+
+10
+00:02:59,670 --> 00:03:02,660
+{\3c&HA55FE1&\2c&HA55FE1&}{\k0}{\k22}shi{\k11}ko{\k23}u{\k19}ka{\k13}i{\k34}ro {\k32}gu{\k21}ccha {\k35}gu{\k32}ccha {\k14}ko{\k17}n{\k13}se{\k13}n
+
+11
+00:03:04,470 --> 00:03:09,190
+{\3c&HA55FE1&\2c&HA55FE1&}{\k20}ko{\k22}n{\k29}na {\k69}{\k35}ko{\k31}to {\k66}{\k32}ha{\k37}ji{\k33}me{\k34}te {\k33}da{\k31}yo
+
+12
+00:03:10,090 --> 00:03:13,330
+{\3c&HA55FE1&\2c&HA55FE1&}{\k47}ne{\k32}tsu {\k34}de{\k32}mo {\k32}a{\k34}ru {\k32}no {\k37}ka{\k44}na
+
+13
+00:03:14,750 --> 00:03:17,660
+{\3c&HC1604E&\2c&HC1604E&}{\k34}kyu{\k15}u{\k16}te{\k6}n{\k23}cho{\k18}kka {\k4}i{\k8}ra{\k37}ssha{\k18}tta {\k16}ko{\k32}i{\k18}go{\k19}ko{\k27}ro
+
+14
+00:03:17,660 --> 00:03:20,360
+{\3c&HA55FE1&\2c&HA55FE1&}{\k6}{\k14}a{\k14}cchu{\k6}u{\k32}ma {\k19}ka{\k19}o {\k28}ha{\k18}kka {\k18}de {\k31}ma{\k33}kka{\k32}kka
+
+15
+00:03:20,360 --> 00:03:22,890
+{\3c&HC1604E&\2c&HC1604E&}{\k18}ba {\k18}ba {\k31}ba{\k19}ka {\k18}na {\k32}te {\k17}ga {\k16}fu{\k33}ru{\k17}e{\k17}ru{\k17}zo
+
+16
+00:03:22,890 --> 00:03:25,510
+{\3c&HA55FE1&\2c&HA55FE1&}{\k15}{\k14}ko{\k20}re {\k29}ga {\k20}zo{\k16}ku {\k37}ni {\k15}i{\k18}u {\k27}ko{\k22}i {\k15}na{\k14}no
+
+17
+00:03:25,510 --> 00:03:28,220
+{\3c&HC1604E&\2c&HC1604E&}{\k21}{\k14}ya{\k17}ya{\k32}ya{\k20}ccha{\k17}tta {\k20}ka{\k13}i{\k16}wa {\k12}ka{\k37}mi {\k17}ma{\k17}ku{\k18}ri
+
+18
+00:03:28,220 --> 00:03:30,810
+{\3c&HA55FE1&\2c&HA55FE1&}{\k15}{\k19}ki{\k16}ma{\k25}zu{\k7}i {\k19}chi{\k17}n{\k31}mo{\k16}ku {\k19}ma{\k31}mi{\k20}mu{\k15}me{\k9}mo
+
+19
+00:03:30,810 --> 00:03:33,400
+{\3c&HC1604E&\2c&HC1604E&}{\k24}{\k15}ki{\k16}mi {\k20}no {\k11}{\3c&HA55FE1&\2c&HA55FE1&}(ki{\k24}mi {\k15}no) {\3c&HC1604E&\2c&HC1604E&}{\k11}ki{\k19}mo{\k13}chi {\k25}shi{\k28}ri{\k23}ta{\k11}i {\k4}yo
+
+20
+00:03:33,400 --> 00:03:36,320
+{\k30}{\k17}ka{\k17}ka{\k34}ka{\k15}ta {\k20}ka{\k30}ta{\k17}o{\k17}mo{\k95}i
+
+21
+00:03:36,320 --> 00:03:39,570
+{\3c&HC1604E&\2c&HC1604E&}{\k23}{\k16}ha{\k18}tsu{\k43}ko{\k25}i {\3c&HA55FE1&\2c&HA55FE1&}{\k13}i{\k20}tsu{\k17}mo {\k29}no {\k22}tsu{\k14}u{\k32}ga{\k17}ku{\k36}ro
+
+22
+00:03:39,570 --> 00:03:42,730
+{\3c&HC1604E&\2c&HC1604E&}{\k15}{\k7}pi{\k11}ka {\k15}pi{\k15}ka {\k21}hi{\k16}ka{\k18}ru {\k29}{\3c&HA55FE1&\2c&HA55FE1&}I {\k36}do {\k32}fall {\k33}in {\k68}love
+
+23
+00:03:42,730 --> 00:03:45,450
+{\k11}{\k12}so{\k25}ra {\k16}mo {\k36}to{\k18}be{\k48}so{\k33}u {\k73}sa
+
+24
+00:03:45,450 --> 00:03:48,690
+{\k25}ka{\k16}ka{\k18}ka{\k35}ta {\k34}ka{\k30}ta{\k16}o{\k16}mo{\k134}i
+
+25
+00:02:33,040 --> 00:02:35,760
+{\3c&HC1604E&\2c&HC1604E&}{\k49}た{\k15}った{\k38}今{\k0} {\k65}初{\k34}め{\k17}て{\k13}気{\k13}づ{\k20}い{\k8}た
+
+26
+00:02:35,760 --> 00:02:38,380
+{\3c&HA55FE1&\2c&HA55FE1&}{\k51}恋{\k12}に{\k27}落{\k39}ち{\k16}た{\k48}の{\k33}だ{\k36}な～
+
+27
+00:02:38,380 --> 00:02:41,010
+{\3c&HC1604E&\2c&HC1604E&}{\k66}2{\k17}4{\k51}h{\k0} {\k31}キ{\k30}ミ{\k0}☆{\k0} {\k16}キ{\k20}ミ{\k0}☆{\k0} {\k26}キ{\k6}ミ{\k0}☆
+
+28
+00:02:41,010 --> 00:02:42,850
+{\3c&HA55FE1&\2c&HA55FE1&}{\k22}意{\k22}識{\k21}せ{\k20}ざ{\k17}る{\k34}を{\k16}え{\k10}ま{\k9}せ{\k13}ん!
+
+29
+00:02:42,850 --> 00:02:45,560
+{\3c&HC1604E&\2c&HC1604E&}{\k19}{\k18}な{\k18}ん{\k17}か {\3c&HA55FE1&\2c&HA55FE1&}{\k32}(な{\k29}ん{\k25}か) {\3c&HC1604E&\2c&HC1604E&}{\k12}い{\k14}つ{\k36}も{\k14}と{\k30}違{\k5}う
+
+30
+00:02:45,560 --> 00:02:48,230
+{\3c&HC1604E&\2c&HC1604E&}{\k34}キ{\k14}ミ{\k20}と {\k42}{\3c&HA55FE1&\2c&HA55FE1&}(二{\k24}人) {\3c&HC1604E&\2c&HC1604E&}{\k14}ぎ{\k17}こ{\k18}ち{\k17}な{\k17}い{\k30}会{\k20}話
+
+31
+00:02:48,230 --> 00:02:50,900
+{\3c&HC1604E&\2c&HC1604E&}{\k27}ま{\k21}さ{\k18}か {\3c&HA55FE1&\2c&HA55FE1&}{\k33}(両{\k51}思{\k5}い){\3c&HC1604E&\2c&HC1604E&} {\k8}い{\k19}や{\k48} 片{\k34}思{\k3}い
+
+32
+00:02:50,900 --> 00:02:53,420
+{\3c&HA55FE1&\2c&HA55FE1&}{\k31}や{\k15}ば{\k12}い! {\k17}視{\k39}線{\k34}合{\k34}っちゃ{\k70}った!
+
+33
+00:02:54,430 --> 00:02:57,140
+{\3c&HA55FE1&\2c&HA55FE1&}{\k32}な{\k15}に{\k31}な{\k34}に?! {\k34}こ{\k19}の{\k31}ド{\k35}キ{\k17}ド{\k23}キ?!
+
+34
+00:02:59,670 --> 00:03:02,660
+{\3c&HA55FE1&\2c&HA55FE1&}{\k22}思{\k34}考{\k32}回{\k34}路{\k0} {\k32}ぐ{\k21}っちゃ{\k35}ぐ{\k32}っちゃ {\k31}混{\k26}線・・・
+
+35
+00:03:04,470 --> 00:03:09,190
+{\3c&HA55FE1&\2c&HA55FE1&}{\k20}こ{\k22}ん{\k29}な{\k69}{\k35}こ{\k31}と{\k66} {\k69}初{\k33}め{\k34}て{\k33}だ{\k31}よ
+
+36
+00:03:10,090 --> 00:03:13,330
+{\3c&HA55FE1&\2c&HA55FE1&}{\k79}熱{\k34}で{\k32}も{\k32}あ{\k34}る{\k32}の{\k37}か{\k44}な～
+
+37
+00:03:14,750 --> 00:03:17,660
+{\3c&HC1604E&\2c&HC1604E&}{\k49}急{\k22}転{\k23}直{\k18}下{\k0} {\k4}い{\k8}ら{\k37}っしゃ{\k18}った {\k66}恋{\k46}心
+
+38
+00:03:17,660 --> 00:03:20,360
+{\3c&HA55FE1&\2c&HA55FE1&}{\k20}あ{\k14}っちゅ{\k6}う{\k32}ま{\k0} {\k38}顔{\k0} {\k28}発{\k18}火{\k18}で{\k0} {\k31}ま{\k33}っか{\k32}っか
+
+39
+00:03:20,360 --> 00:03:22,890
+{\3c&HC1604E&\2c&HC1604E&}{\k18}バ・{\k18}バ・{\k31}バ{\k19}カ{\k18}な?! {\k32}手{\k17}が{\k49}震{\k17}え{\k17}る{\k17}ぞ
+
+40
+00:03:22,890 --> 00:03:25,510
+{\3c&HA55FE1&\2c&HA55FE1&}{\k29}こ{\k20}れ{\k29}が{\k0} {\k36}俗{\k37}に{\k15}言{\k18}う{\k0} {\k49}「恋」 {\k15}な{\k14}の?!
+
+41
+00:03:25,510 --> 00:03:28,220
+{\3c&HC1604E&\2c&HC1604E&}{\k35}や{\k17}や{\k32}や{\k20}っちゃ{\k17}った {\k33}会{\k16}話 {\k12}噛{\k37}み{\k17}ま{\k17}く{\k18}り
+
+42
+00:03:28,220 --> 00:03:30,810
+{\3c&HA55FE1&\2c&HA55FE1&}{\k34}気{\k16}ま{\k25}ず{\k7}い{\k36}沈{\k47}黙{\k0} {\k19}マ{\k31}ミ{\k20}ム{\k15}メ{\k9}モ
+
+43
+00:03:30,810 --> 00:03:33,400
+{\3c&HC1604E&\2c&HC1604E&}{\k39}キ{\k16}ミ{\k20}の{\k0} {\k11}{\3c&HA55FE1&\2c&HA55FE1&}(キ{\k24}ミ{\k15}の) {\3c&HC1604E&\2c&HC1604E&}{\k11}気{\k19}持{\k13}ち {\k25}知{\k28}り{\k23}た{\k11}い{\k4}よ
+
+44
+00:03:33,400 --> 00:03:36,320
+{\k47}カ{\k17}カ{\k34}カ{\k15}タ☆{\k20}カ{\k30}タ{\k17}オ{\k17}モ{\k95}イ
+
+45
+00:03:36,320 --> 00:03:39,570
+{\3c&HC1604E&\2c&HC1604E&}{\k57}初{\k68}恋! {\3c&HA55FE1&\2c&HA55FE1&}{\k13}い{\k20}つ{\k17}も{\k29}の{\k36}通{\k49}学{\k36}路
+
+46
+00:03:39,570 --> 00:03:42,730
+{\3c&HC1604E&\2c&HC1604E&}{\k22}ピ{\k11}カ{\k15}ピ{\k15}カ{\k37}光{\k18}る {\k29}{\3c&HA55FE1&\2c&HA55FE1&}I {\k36}do {\k32}fall {\k33}in {\k68}love!
+
+47
+00:03:42,730 --> 00:03:45,450
+{\k48}空{\k16}も{\k36}飛{\k18}べ{\k48}そ{\k33}う{\k73}さ
+
+48
+00:03:45,450 --> 00:03:48,690
+{\k25}カ{\k16}カ{\k18}カ{\k35}タ☆{\k34}カ{\k30}タ{\k16}オ{\k16}モ{\k134}イ
+
+49
+00:02:33,040 --> 00:02:35,760
+{\3c&HC1604E&\2c&HC1604E&}{guy}I just realised it for the first time
+
+50
+00:02:35,760 --> 00:02:38,380
+{girl}{\3c&HA55FE1&}That I had fallen in love~
+
+51
+00:02:38,380 --> 00:02:41,010
+{\3c&HC1604E&\2c&HC1604E&}{guy}Twenty-four hours a day thinking of you you and nothing more than you!
+
+52
+00:02:41,010 --> 00:02:42,850
+{\3c&HA55FE1&\2c&HA55FE1&}{girl}It's something I wasn't consciously aware of
+
+53
+00:02:42,850 --> 00:02:45,560
+{guy}{\3c&HC1604E&\2c&HC1604E&}Somehow {\3c&HA55FE1&}({girl}somehow){\3c&HC1604E&\2c&HC1604E&} {guy}I'm feeling different from the usual
+
+54
+00:02:45,560 --> 00:02:48,230
+{guy}{\3c&HC1604E&\2c&HC1604E&}With you {\3c&HA55FE1&}({girl}the two of us){\3c&HC1604E&\2c&HC1604E&} {guy}and our dull chatter
+
+55
+00:02:48,230 --> 00:02:50,900
+{guy}{\3c&HC1604E&\2c&HC1604E&}Don't tell me {\3c&HA55FE1&}({girl}mutual love?){\3c&HC1604E&\2c&HC1604E&} {guy}Nope it's a one-sided crush
+
+56
+00:02:50,900 --> 00:02:53,420
+{girl}{\3c&HA55FE1&}This is bad! Our gazes met!
+
+57
+00:02:54,430 --> 00:02:57,140
+{girl}{\3c&HA55FE1&}What what? Why is my heart pounding like this?
+
+58
+00:02:59,670 --> 00:03:02,660
+{girl}{\3c&HA55FE1&}Did a short circuit just make a mess out of my mind?
+
+59
+00:03:04,470 --> 00:03:09,190
+{girl}{\3c&HA55FE1&}This is my first time... feeling like this...
+
+60
+00:03:10,090 --> 00:03:13,330
+{girl}{\3c&HA55FE1&}I wonder if I have a fever~
+
+61
+00:03:14,750 --> 00:03:17,660
+{guy}{\3c&HC1604E&\2c&HC1604E&}Suddenly and precipitately love has arrived.
+
+62
+00:03:17,660 --> 00:03:20,360
+{girl}{\3c&HA55FE1&}Instantly igniting my face into a bright red
+
+63
+00:03:20,360 --> 00:03:22,890
+{guy}{\3c&HC1604E&\2c&HC1604E&}T-That's stupid?! My hands are shaking
+
+64
+00:03:22,890 --> 00:03:25,510
+{girl}{\3c&HA55FE1&}Is this really what they call "love"?
+
+65
+00:03:25,510 --> 00:03:28,220
+{guy}{\3c&HC1604E&\2c&HC1604E&}I-I did it! A conversation filled with stutters
+
+66
+00:03:28,220 --> 00:03:30,810
+{girl}{\3c&HA55FE1&}This awkward silence... *mumble mumble*{not really sure bout this... need a better version for the mamimumemo which seems to be blabbling to break the silence}
+
+67
+00:03:30,810 --> 00:03:33,400
+{guy}{\3c&HC1604E&\2c&HC1604E&}Your... {\3c&HA55FE1&}({girl}Your...) {\3c&HC1604E&\2c&HC1604E&}{Both}I want to know your feelings.
+
+68
+00:03:33,400 --> 00:03:36,320
+{both}O-One-sided love
+
+69
+00:03:36,320 --> 00:03:39,570
+{guy}{\3c&HC1604E&\2c&HC1604E&}First love! {girl}{\3c&HA55FE1&}The usual way to school
+
+70
+00:03:39,570 --> 00:03:42,730
+{guy}{\3c&HC1604E&\2c&HC1604E&}The shining light.{\3c&HA55FE1&} I do fall in love!{girl}
+
+71
+00:03:42,730 --> 00:03:45,450
+{together}I feel I could fly towards the sky
+
+72
+00:03:45,450 --> 00:03:48,690
+{both}O-One-sided love
+
+73
+00:22:05,630 --> 00:22:08,890
+{\k23}{\k11}a{\k28}sa {\k20}o{\k39}ki{\k29}te {\k30}{\k18}ha{\k20}o {\k20}mi{\k13}ga{\k25}i {\k50}te
+
+74
+00:22:08,890 --> 00:22:12,010
+{\k52}a{\k11}tto{\k6}i{\k33}u{\k42}ma {\k21}go{\k18}go {\k21}ju{\k20}u {\k88}ji
+
+75
+00:22:12,010 --> 00:22:15,110
+{\k32}kyo{\k15}u {\k21}mo {\k11}ta{\k10}ku{\k19}sa{\k26}n{\k32} {\k20}wa{\k36}ra{\k37}tta {\k51}naa
+
+76
+00:22:15,110 --> 00:22:18,100
+{\k23}ta{\k16}ku{\k31}sa{\k39}n {\k18}to{\k20}ki{\k20}me{\k39}i{\k20}ta {\k73}naa
+
+77
+00:22:18,100 --> 00:22:24,500
+{\k23}{\k20}to{\k20}mo{\k17}da{\k41}chi {\k57}to {\k17}ba{\k21}ka {\k21}mi{\k21}ta{\k17}i {\k56}ni {\k17}sa{\k25}wa{\k22}i {\k37}de{\k40}ru {\k36}to{\k23}ki {\k19}ni {\k90}mo
+
+78
+00:22:24,500 --> 00:22:27,560
+{\k24}chi{\k20}ra{\k23}chi{\k38}ra{\k29}tte{\k28} {\k21}me {\k19}ga {\k20}a{\k84}u
+
+79
+00:22:27,560 --> 00:22:30,240
+{\k24}gu{\k23}u{\k23}ze{\k39}n {\k20}da{\k20}yo {\k119}ne
+
+80
+00:22:30,240 --> 00:22:33,740
+{\k35}ha{\k21}tsu{\k40}ko{\k21}i {\k20}na{\k19}n{\k37}te {\k42}i{\k35}e {\k27}na{\k53}i
+
+81
+00:22:33,740 --> 00:22:36,910
+{\k56}kya{\k22}ra {\k40}ja{\k37}na{\k19}i {\k22}n {\k39}da {\k54}mo{\k28}n
+
+82
+00:22:36,910 --> 00:22:42,960
+{\k71}ne{\k21}e {\k54}{\k33}a{\k45}shi{\k43}ta {\k40}mo {\k41}a{\k36}e{\k39}ru {\k38}yo {\k144}ne
+
+83
+00:22:42,960 --> 00:22:46,060
+{\k52}ma{\k17}bu{\k21}ta {\k50}o{\k28} {\k38}to{\k19}ji{\k20}ru {\k65}to
+
+84
+00:22:46,060 --> 00:22:49,180
+{\k51}ki{\k18}ra{\k22}ki{\k39}ra {\k35}ki{\k43}mi {\k21}da{\k18}ra{\k65}ke
+
+85
+00:22:49,180 --> 00:22:52,500
+{\k29}kyo{\k23}u {\k20}mo {\k19}ta{\k33}no{\k44}shi{\k38}ka{\k40}tta {\k86}ne
+
+86
+00:22:52,500 --> 00:22:56,430
+{\k45}a{\k46}a{\k58} {\k19}ko{\k10}i {\k48}shi{\k17}te {\k24}n {\k32}da {\k25}na{\k69}a
+
+87
+00:23:01,860 --> 00:23:05,000
+{\k32}u{\k18}re{\k19}shi{\k37}i {\k31}na {\k27}{\k20}u{\k13}re{\k30}shi{\k36}i {\k51}na
+
+88
+00:23:05,000 --> 00:23:08,070
+{\k24}ha{\k24}ji{\k21}me{\k16}ma{\k21}shi{\k39}te {\k17}ko{\k22}i {\k19}go{\k18}ko{\k86}ro
+
+89
+00:23:08,070 --> 00:23:11,230
+{\k23}a{\k28}shi{\k19}ta {\k40}ma{\k58}ta {\k18}a{\k22}e{\k19}ru {\k89}ne
+
+90
+00:23:11,230 --> 00:23:13,410
+{\k15}o{\k21}ya{\k32}su{\k38}mi{\k19}na{\k18}sa{\k75}i
+
+91
+00:23:14,330 --> 00:23:18,450
+{\k31}yu{\k19}me {\k13}de {\k44}su{\k58}gu {\k20}a{\k20}e{\k19}ru {\k188}ne
+
+92
+00:23:18,970 --> 00:23:24,540
+{\k29}o{\k17}ya{\k27}su{\k38}mi{\k11}na{\k28}sa{\k407}i
+
+93
+00:22:05,630 --> 00:22:08,890
+{\k62}朝{\k20}起{\k39}き{\k29}て{\k30} {\k18}歯{\k20}を{\k33}磨{\k25}い{\k50}て
+
+94
+00:22:08,890 --> 00:22:12,010
+{\k52}あ{\k11}っと{\k6}い{\k33}う{\k42}間{\k0} {\k21}午{\k18}後{\k41}10{\k88}時
+
+95
+00:22:12,010 --> 00:22:15,110
+{\k32}今{\k15}日{\k21}も{\k0} {\k11}た{\k10}く{\k19}さ{\k26}ん{\k32} {\k56}笑{\k37}った{\k51}なぁ
+
+96
+00:22:15,110 --> 00:22:18,100
+{\k23}た{\k16}く{\k31}さ{\k39}ん{\k0} {\k18}と{\k20}き{\k20}め{\k39}い{\k20}た{\k73}なぁ
+
+97
+00:22:18,100 --> 00:22:24,500
+{\k63}友{\k58}達{\k57}と{\k0} {\k17}バ{\k21}カ{\k21}み{\k21}た{\k17}い{\k56}に{\k42}騒{\k22}い{\k37}で{\k40}る{\k0} {\k59}時{\k19}に{\k90}も
+
+98
+00:22:24,500 --> 00:22:27,560
+{\k24}チ{\k20}ラ{\k23}チ{\k38}ラ{\k29}って{\k28} {\k21}目{\k19}が{\k20}合{\k84}う
+
+99
+00:22:27,560 --> 00:22:30,240
+{\k47}…偶{\k62}然、{\k20}だ{\k20}よ{\k119}ね。
+
+100
+00:22:30,240 --> 00:22:33,740
+{\k56}初{\k61}恋{\k20}な{\k19}ん{\k37}て{\k42}言{\k35}え{\k27}な{\k53}い
+
+101
+00:22:33,740 --> 00:22:36,910
+{\k56}キャ{\k22}ラ{\k40}じゃ{\k37}な{\k19}い{\k22}ん{\k39}だ{\k54}も{\k28}んっ!
+
+102
+00:22:36,910 --> 00:22:42,960
+{\k71}ね{\k21}え{\k54} {\k33}あ{\k45}し{\k43}た{\k40}も{\k41}会{\k36}え{\k39}る{\k38}よ{\k144}ね?
+
+103
+00:22:42,960 --> 00:22:46,060
+{\k52}ま{\k17}ぶ{\k21}た{\k50}を{\k28} {\k38}閉{\k19}じ{\k20}る{\k65}と
+
+104
+00:22:46,060 --> 00:22:49,180
+{\k51}キ{\k18}ラ{\k22}キ{\k39}ラ{\k0} {\k35}キ{\k43}ミ{\k21}だ{\k18}ら{\k65}け
+
+105
+00:22:49,180 --> 00:22:52,500
+{\k29}今{\k23}日{\k20}も{\k0} {\k52}楽{\k44}し{\k38}か{\k40}った{\k86}ね
+
+106
+00:22:52,500 --> 00:22:56,430
+{\k45}あ{\k46}ー{\k58} {\k29}恋{\k0} {\k48}し{\k17}て{\k24}ん{\k32}だ{\k25}な{\k69}ぁ
+
+107
+00:23:01,860 --> 00:23:05,000
+{\k32}う{\k18}れ{\k19}し{\k37}い{\k31}な{\k27} {\k20}う{\k13}れ{\k30}し{\k36}い{\k51}な
+
+108
+00:23:05,000 --> 00:23:08,070
+{\k24}は{\k24}じ{\k21}め{\k16}ま{\k21}し{\k39}て{\k0} {\k17}こ{\k22}い{\k19}ご{\k18}こ{\k86}ろ
+
+109
+00:23:08,070 --> 00:23:11,230
+{\k23}あ{\k28}し{\k19}た{\k0} {\k40}ま{\k58}た{\k0} {\k18}あ{\k22}え{\k19}る{\k89}ね
+
+110
+00:23:11,230 --> 00:23:13,410
+{\k15}お{\k21}や{\k32}す{\k38}み{\k19}な{\k18}さ{\k75}い
+
+111
+00:23:14,330 --> 00:23:18,450
+{\k31}ゆ{\k19}め{\k13}で{\k0} {\k44}す{\k58}ぐ{\k0} {\k20}あ{\k20}え{\k19}る{\k188}ね
+
+112
+00:23:18,970 --> 00:23:24,540
+{\k29}お{\k17}や{\k27}す{\k38}み{\k11}な{\k28}さ{\k407}い
+
+113
+00:22:05,630 --> 00:22:08,890
+Woke up in the morning brushed my teeth
+
+114
+00:22:08,890 --> 00:22:12,010
+In the blink of an eye it's 10pm
+
+115
+00:22:12,010 --> 00:22:15,110
+Today we laughed a whole lot
+
+116
+00:22:15,110 --> 00:22:18,100
+We had a great time
+
+117
+00:22:18,100 --> 00:22:24,500
+At times with my friends acting like fools being noisy
+
+118
+00:22:24,500 --> 00:22:27,560
+Fluttering our eyes met.
+
+119
+00:22:27,560 --> 00:22:30,240
+It's a coincidence right?
+
+120
+00:22:30,240 --> 00:22:33,740
+I wouldn't call this my first love
+
+121
+00:22:33,740 --> 00:22:36,910
+It's not my character.
+
+122
+00:22:36,910 --> 00:22:42,960
+Say will we be able to meet again tomorrow?
+
+123
+00:22:42,960 --> 00:22:46,060
+As my eyelids close
+
+124
+00:22:46,060 --> 00:22:49,180
+I see you sparkling all over the place
+
+125
+00:22:49,180 --> 00:22:52,500
+Today was fun too wasn't it?
+
+126
+00:22:52,500 --> 00:22:56,430
+I'm in love~
+
+127
+00:23:01,860 --> 00:23:05,000
+So happy so happy
+
+128
+00:23:05,000 --> 00:23:08,070
+It is my pleasure to meet you my new-found love.
+
+129
+00:23:08,070 --> 00:23:11,230
+Surely we'll meet again tomorrow~
+
+130
+00:23:11,230 --> 00:23:13,410
+Have a good night
+
+131
+00:23:14,330 --> 00:23:18,450
+We'll meet immediately in our dreams
+
+132
+00:23:18,970 --> 00:23:24,540
+So have a good night
+
+133
+00:23:36,450 --> 00:23:40,420
+{\fs33\fad(500500)\c&HFFFFFF&\3c&H000000&\bord2\b1\fnClarendon LT Std\pos(969597)}Narration   Katsura Reiko{missing sign iken: it's right here}
+
+134
+00:00:03,390 --> 00:00:08,440
+{\fad(600760)\fnCalisto MT\b1\fs71\bord0.8\c&H000000&\pos(96373)}Motivation
+
+135
+00:00:46,560 --> 00:00:50,070
+{\fnBrushstroke Plain\bord0\b0\shad0\fs71\blur0.5\pos(640210)}Shinonome Institute
+
+136
+00:00:51,060 --> 00:00:54,320
+{\fnCalisto MT\b1\fs71\fad(5000)\bord0.6\c&H000000&\pos(26069)}Nichijou 01
+
+137
+00:03:56,250 --> 00:03:57,170
+{\fnCalisto MT\b1\fs71\fad(3000)\bord0.6\c&H000000&\pos(623704)}Kokeshi
+
+138
+00:03:58,670 --> 00:03:59,590
+{\fnCalisto MT\b1\fs71\fad(3000)\bord0.6\c&H000000&\pos(613693)}Akabeko
+
+139
+00:04:01,590 --> 00:04:02,840
+{\fnCalisto MT\b1\fs71\fad(3000)\bord0.6\c&H000000&\pos(630698)}Salmon
+
+140
+00:05:45,360 --> 00:05:47,860
+{\fnBook Antiqua\fs52\an8\bord3\shad1\3c&H237C95&\4c&H213045&}Tokisada Prefectural High School
+
+141
+00:08:28,860 --> 00:08:31,570
+{\fnCalisto MT\b1\fs71\fad(4000)\bord0.6\c&H000000&\pos(194125)}Wonderful
+
+142
+00:09:14,100 --> 00:09:17,400
+{\fnCalisto MT\fad(1000800)\c&HFFFFFF&\pos(228.00000594.000002)\4c&H000000&}Nichijou 02
+
+143
+00:11:38,290 --> 00:11:41,630
+{\fnCalisto MT\b1\fs71\fad(5000)\bord0.6\c&H000000&\pos(77169)}Nichijou 03
+
+144
+00:13:25,150 --> 00:13:25,200
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(976.8226.2)\iclip(m 1041 147 l 1041 199 974 233 896 204 914 153 934 173 968 170)}Squid{ Tentacle}
+
+145
+00:13:25,200 --> 00:13:25,240
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(975229.1)\iclip(m 1041 147 l 1041 199 974 233 896 204 903 160 939 197 959 168)}Squid{ Tentacle}
+
+146
+00:13:25,240 --> 00:13:25,280
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.4230.7)\iclip(m 1041 147 l 1100 178 1099 211 1069 216 969 239 945 213 957 158)}Squid{ Tentacle}
+
+147
+00:13:25,280 --> 00:13:25,320
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(980229.305)\iclip(m 991 141 l 1036 137 1066 141 1069 216 951 219 951 175 976 170)}Squid{ Tentacle}
+
+148
+00:13:25,320 --> 00:13:25,360
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(980228.38)\iclip(m 991 141 l 1036 137 1066 141 1069 216 954 198 951 175 976 170)}Squid{ Tentacle}
+
+149
+00:13:25,360 --> 00:13:25,400
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(979.8227.8)\iclip(m 991 141 l 1036 137 1066 218 988 214 977 169 954 209 952 171)}Squid{ Tentacle}
+
+150
+00:13:25,400 --> 00:13:25,450
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(979229.6)\iclip(m 1001 139 l 1051 138 1066 218 990 218 989 166)}Squid{ Tentacle}
+
+151
+00:13:25,450 --> 00:13:25,490
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.9230.4)\iclip(m 1001 139 l 1051 138 1066 218 1001 215 1001 159)}Squid{ Tentacle}
+
+152
+00:13:25,490 --> 00:13:25,530
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.6230)\iclip(m 1001 139 l 1051 138 1066 218 1006 213 1001 159)}Squid{ Tentacle}
+
+153
+00:13:25,530 --> 00:13:25,570
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(979.8228.1)\iclip(m 1025 163 l 1051 138 1066 218 1005 214 1003 180)}Squid{ Tentacle}
+
+154
+00:13:25,570 --> 00:13:25,610
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.3229.4)\iclip(m 1025 163 l 1051 138 1066 218 1005 214 1003 180)}Squid{ Tentacle}
+
+155
+00:13:25,610 --> 00:13:25,650
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.3228.3)\iclip(m 1025 163 l 1051 138 1066 218 1005 214 1014 173)}Squid{ Tentacle}
+
+156
+00:13:25,650 --> 00:13:25,700
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.4230.4)\iclip(m 1025 163 l 1051 138 1066 218 1011 221 1012 170)}Squid{ Tentacle}
+
+157
+00:13:25,700 --> 00:13:25,740
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(979.6231.6)\iclip(m 1049 191 l 1066 218 1011 221 1011 169)}Squid{ Tentacle}
+
+158
+00:13:25,740 --> 00:13:25,780
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.6232.2)\iclip(m 1034 213 l 1011 220 1012 169 1028 165)}Squid{ Tentacle}
+
+159
+00:13:25,780 --> 00:13:25,820
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.4231.8)\iclip(m 1034 213 l 1011 220 1013 194 1033 190)}Squid{ Tentacle}
+
+160
+00:13:25,820 --> 00:13:25,860
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.7231.9)}Squid{ Tentacle}
+
+161
+00:13:25,860 --> 00:13:25,900
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.7232.5)}Squid{ Tentacle}
+
+162
+00:13:25,900 --> 00:13:25,950
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(976.3231.2)}Squid{ Tentacle}
+
+163
+00:13:25,950 --> 00:13:25,990
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(976.6229)}Squid{ Tentacle}
+
+164
+00:13:25,990 --> 00:13:26,030
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(977.4229.2)}Squid{ Tentacle}
+
+165
+00:13:26,030 --> 00:13:26,070
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.3231.2)}Squid{ Tentacle}
+
+166
+00:13:26,070 --> 00:13:26,110
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(976.3230.3)}Squid{ Tentacle}
+
+167
+00:13:26,110 --> 00:13:26,150
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(977.5228.7)}Squid{ Tentacle}
+
+168
+00:13:26,150 --> 00:13:26,200
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(976.6230)}Squid{ Tentacle}
+
+169
+00:13:26,200 --> 00:13:26,240
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(981.0231.0)}Squid{ Tentacle}
+
+170
+00:13:26,240 --> 00:13:26,280
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(977.8230.1)}Squid{ Tentacle}
+
+171
+00:13:26,280 --> 00:13:26,320
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(977.7227)}Squid{ Tentacle}
+
+172
+00:13:26,320 --> 00:13:26,360
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(977.7226)}Squid{ Tentacle}
+
+173
+00:13:26,360 --> 00:13:26,410
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.4226.8)}Squid{ Tentacle}
+
+174
+00:13:26,410 --> 00:13:26,450
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.0226.1)}Squid{ Tentacle}
+
+175
+00:13:26,450 --> 00:13:26,490
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(978.6227.8)}Squid{ Tentacle}
+
+176
+00:13:26,490 --> 00:13:26,530
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(980228.08}Squid{ Tentacle}
+
+177
+00:13:26,530 --> 00:13:26,570
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(980229.4)}Squid{ Tentacle}
+
+178
+00:13:26,570 --> 00:13:26,610
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(980.6230.1)}Squid{ Tentacle}
+
+179
+00:13:26,610 --> 00:13:26,660
+{\fad(00)\blur0\fs88\b1\c&H343233&\fnNever Say Never\pos(979.9230.4)}Squid{ Tentacle}
+
+180
+00:17:24,940 --> 00:17:26,940
+{\blur0.5\fs30\fnCopyright Violations\pos(638198)}Fire Alarm
+
+181
+00:17:24,940 --> 00:17:26,940
+{\blur0.5\fs26\b1\pos(640441.999985)\fnCopyright Violations}Push Hard
+
+182
+00:17:25,680 --> 00:17:29,350
+{\fnCalisto MT\b1\fs71\fad(500930)\bord0.6\c&H000000&\pos(23969)}Button
+
+183
+00:18:36,880 --> 00:18:43,050
+{\fnCalisto MT\b1\fs71\fad(5000)\bord0.6\pos(56569)\c&H000000&}Important Matters and Things to be done
+
+184
+00:18:43,050 --> 00:18:43,100
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(7010112194)}Important Matters and Things to be done
+
+185
+00:18:43,100 --> 00:18:43,140
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(14510112196)}Important Matters and Things to be done
+
+186
+00:18:43,140 --> 00:18:43,180
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(21210112187)}Important Matters and Things to be done
+
+187
+00:18:43,180 --> 00:18:43,220
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(28610112187)}Important Matters and Things to be done
+
+188
+00:18:43,220 --> 00:18:43,260
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(35510112191)}Important Matters and Things to be done
+
+189
+00:18:43,260 --> 00:18:43,310
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(42610112190)}Important Matters and Things to be done
+
+190
+00:18:43,310 --> 00:18:43,350
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(49710112194)}Important Matters and Things to be done
+
+191
+00:18:43,350 --> 00:18:43,390
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(56810112199)}Important Matters and Things to be done
+
+192
+00:18:43,390 --> 00:18:43,430
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(64110112196)}Important Matters and Things to be done
+
+193
+00:18:43,430 --> 00:18:43,470
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(71310112181)}Important Matters and Things to be done
+
+194
+00:18:43,470 --> 00:18:43,510
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(78210112173)}Important Matters and Things to be done
+
+195
+00:18:43,510 --> 00:18:43,560
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(85210112176)}Important Matters and Things to be done
+
+196
+00:18:43,560 --> 00:18:43,600
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(92610112176)}Important Matters and Things to be done
+
+197
+00:18:43,600 --> 00:18:43,640
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(99810112167)}Important Matters and Things to be done
+
+198
+00:18:43,640 --> 00:18:43,680
+{\fnCalisto MT\b1\fs71\fad(00)\bord0.6\pos(56569)\c&H000000&\clip(106810112173)}Important Matters and Things to be done
+
+199
+00:19:18,540 --> 00:19:22,930
+{\fnCalisto MT\b1\fs71\fad(5000)\bord0.6\c&H000000&\pos(23969)}Nichijou 04
+
+200
+00:21:39,150 --> 00:21:43,650
+{\fnBrushstroke Plain\fs30\blur0.5\b0\pos(1045355)\frz9.161\c&H2F415C&}Shinonome Institute
+
+201
+00:00:04,620 --> 00:00:06,270
+What's wrong Yukko?
+
+202
+00:00:06,270 --> 00:00:08,730
+I can't summon the motivation to do anything. {Motivation for doing stuff won't come out.}{I don't feel like doing anything.}
+
+203
+00:00:08,730 --> 00:00:10,200
+What are you talking about?
+
+204
+00:00:10,200 --> 00:00:12,440
+We're high school students you know.
+
+205
+00:00:12,440 --> 00:00:13,740
+It's the start of a new term.
+
+206
+00:00:14,140 --> 00:00:17,580
+{You'll be motivated to do }Motivation is something that comes out naturally once you start doing it.
+
+207
+00:00:17,920 --> 00:00:20,950
+The motivation to do something before actually doing it won't come out. {won't be there before you start doing it.}
+
+208
+00:00:21,520 --> 00:00:25,490
+How do I get motivated to do
+something before I actually start doing it{to do it}?
+
+209
+00:00:25,490 --> 00:00:27,500
+The motivation to do something before actually doing it?
+
+210
+00:00:27,500 --> 00:00:28,630
+Hm...
+
+211
+00:00:29,070 --> 00:00:30,710
+Anyway just do it!
+
+212
+00:00:30,710 --> 00:00:31,630
+All right!
+
+213
+00:00:36,280 --> 00:00:38,820
+I just want to stay as a simple-minded idiot.
+
+214
+00:00:46,860 --> 00:00:50,070
+Professor! It's about time you woke up.{Please wake up already!}
+
+215
+00:00:54,840 --> 00:00:56,800
+And... there!{new line - kb_z}
+
+216
+00:01:03,960 --> 00:01:04,960
+Good morning...
+
+217
+00:01:05,540 --> 00:01:07,280
+What are you doing?
+
+218
+00:01:07,280 --> 00:01:09,680
+Today's breakfast will be fried fish.
+
+219
+00:01:09,680 --> 00:01:10,590
+Eh?!
+
+220
+00:01:10,590 --> 00:01:12,510
+I want omelette-rice!
+
+221
+00:01:12,510 --> 00:01:14,470
+Didn't you have that yesterday?
+
+222
+00:01:14,840 --> 00:01:17,680
+Fish {are really nutritious}contain lots of nutrients you know!
+
+223
+00:01:18,490 --> 00:01:20,460
+Stop being picky and eat everything
+
+224
+00:01:20,460 --> 00:01:23,180
+otherwise you won't grow bigger{\fscx300}-{\r} Ah!
+
+225
+00:01:26,870 --> 00:01:31,020
+Um that's our important breakfast so...
+
+226
+00:01:33,920 --> 00:01:35,330
+Ah no it's not like that!
+
+227
+00:01:35,330 --> 00:01:38,750
+This isn't anything robotic at all!
+
+228
+00:01:38,750 --> 00:01:40,240
+Um this is...
+
+229
+00:01:41,030 --> 00:01:42,450
+Ah it ran away.
+
+230
+00:01:45,240 --> 00:01:48,210
+Wait up!
+
+231
+00:01:48,900 --> 00:01:50,750
+Have a safe trip.
+
+232
+00:01:53,490 --> 00:01:58,010
+Perhaps that cat is also having a hard time?
+
+233
+00:02:01,930 --> 00:02:04,520
+Ah I'm gonna crash!
+
+234
+00:04:07,270 --> 00:04:09,600
+Mio-chan selamat pagi!
+
+235
+00:04:07,270 --> 00:04:09,600
+TL note: Indonesian for "good morning". {iken: Malaysians would contest :P}
+
+236
+00:04:10,160 --> 00:04:12,100
+Ah Yukko good morning!
+
+237
+00:04:12,480 --> 00:04:15,940
+What should I do I forgot to bring my student ID...{lit. student card}
+
+238
+00:04:16,350 --> 00:04:17,090
+Huh?
+
+239
+00:04:17,090 --> 00:04:18,690
+She ignored my selamat pagi?
+
+240
+00:04:19,220 --> 00:04:22,110
+I won't be called upon by the seniors right?
+
+241
+00:04:22,110 --> 00:04:23,640
+If that happens
+
+242
+00:04:23,640 --> 00:04:26,700
+{you just need to say }saying "I'm a third year student!" should be enough don't you think?
+
+243
+00:04:27,060 --> 00:04:29,690
+That won't solve anything.
+
+244
+00:04:30,440 --> 00:04:31,150
+What?
+
+245
+00:04:31,150 --> 00:04:32,030
+Thunder?
+
+246
+00:04:32,030 --> 00:04:32,830
+Even though the weather's clear?
+
+247
+00:04:33,220 --> 00:04:35,370
+It might suddenly start pouring down you know!
+
+248
+00:04:35,370 --> 00:04:38,380
+A shower or a hailstorm...
+
+249
+00:04:39,840 --> 00:04:41,780
+A kokeshi came down. {iken: A kokeshi "rained" down or "It rained kokeshi"}
+
+250
+00:04:41,780 --> 00:04:44,360
+A-Are you all right Yukko?
+
+251
+00:04:44,360 --> 00:04:46,470
+Who would've thought that a kokeshi would come down?
+
+252
+00:04:47,200 --> 00:04:48,520
+What a surprise!
+
+253
+00:04:48,520 --> 00:04:50,190
+I wonder where it fell from...
+
+254
+00:04:50,190 --> 00:04:52,230
+I don't know...
+
+255
+00:04:52,230 --> 00:04:56,480
+But it's extremely unlikely that you'd get hit by a kokeshi in your lifetime!
+
+256
+00:04:56,910 --> 00:04:59,210
+Those people are rare you know.
+
+257
+00:04:59,210 --> 00:05:00,440
+I don't think they exist.
+
+258
+00:05:00,760 --> 00:05:02,480
+It might actually mean that luck is with me!
+
+259
+00:05:05,530 --> 00:05:07,710
+Luck is not with me...
+
+260
+00:05:07,710 --> 00:05:09,660
+Yukko are you okay?
+
+261
+00:05:11,330 --> 00:05:13,740
+An Akabeko of all things...
+
+262
+00:05:13,740 --> 00:05:15,320
+Akabeko...
+
+263
+00:05:15,320 --> 00:05:17,670
+I'm wrong it's not that luck is not with me.
+
+264
+00:05:17,670 --> 00:05:20,000
+We should just think of it this way Mio-chan...
+
+265
+00:05:20,000 --> 00:05:23,100
+I should be happy that I wasn't hit by raw food. {iken: raw meat}
+
+266
+00:05:23,100 --> 00:05:25,720
+Thinking like that the small mercy amongst the misfortune{\fscx300}-
+
+267
+00:05:35,980 --> 00:05:38,350
+It's a salmon!
+
+268
+00:05:50,560 --> 00:05:51,560
+Morning!
+
+269
+00:05:51,560 --> 00:05:52,870
+Good morning.
+
+270
+00:05:57,060 --> 00:05:58,690
+Ah Mai-chan good morning.
+
+271
+00:05:58,690 --> 00:05:59,710
+Selamat pagi!
+
+272
+00:06:00,590 --> 00:06:01,500
+Morning.
+
+273
+00:06:01,850 --> 00:06:04,050
+What are you reading Mai-chan?
+
+274
+00:06:04,050 --> 00:06:05,720
+A real estate information magazine.
+
+275
+00:06:05,720 --> 00:06:06,440
+Eh?
+
+276
+00:06:06,440 --> 00:06:08,080
+You're moving Mai-chan?
+
+277
+00:06:08,080 --> 00:06:09,220
+Undecided.{missing line iken: it's right here}
+
+278
+00:06:11,190 --> 00:06:13,470
+Do you even say selamat pagi?
+
+279
+00:06:13,970 --> 00:06:18,950
+It can't be helped {I'll stop using the word for today. }I guess I'll let the phrase rest for today.
+
+280
+00:06:18,950 --> 00:06:20,270
+Yukko.
+
+281
+00:06:21,370 --> 00:06:22,940
+Selamat malam.
+
+282
+00:06:21,370 --> 00:06:22,940
+TL note: Indonesian for "good evening".
+
+283
+00:06:29,120 --> 00:06:31,120
+Mai-chan you should say selamat pagi there!
+
+284
+00:06:32,160 --> 00:06:33,870
+What language is that?
+
+285
+00:06:34,950 --> 00:06:38,410
+H-Homeroom will begin.
+
+286
+00:06:41,920 --> 00:06:47,190
+Um when I came to school this morning this was in the shoe rack...
+
+287
+00:06:47,190 --> 00:06:50,180
+Did anyone put this in there?
+
+288
+00:06:53,500 --> 00:06:58,810
+U-Um... If there is anyone who knows about it please tell me okay?
+
+289
+00:06:58,810 --> 00:07:02,660
+Mio-chan I wonder who did that?
+
+290
+00:07:02,660 --> 00:07:04,280
+Maybe it's a prank?
+
+291
+00:07:04,280 --> 00:07:07,650
+It might be something unexpected
+like a student who likes the teacher...
+
+292
+00:07:07,650 --> 00:07:09,900
+I don't think they would leave a Maitreya statue though.
+
+293
+00:07:10,180 --> 00:07:15,530
+But well it's not like I don't understand
+people who have unachievable aspirations.
+
+294
+00:07:16,340 --> 00:07:17,950
+Yeah it's that right?
+
+295
+00:07:17,950 --> 00:07:20,580
+Like the way you feel about Sasahara-senpai.
+
+296
+00:07:20,580 --> 00:07:22,710
+Y-You idiot!
+
+297
+00:07:26,220 --> 00:07:29,130
+Where am I?
+
+298
+00:07:39,130 --> 00:07:40,480
+I have to get home!
+
+299
+00:07:44,400 --> 00:07:46,880
+I'm sure the professor is worried
+
+300
+00:07:46,880 --> 00:07:49,490
+and leaving her with the charcoal stove is dangerous. {iken: why can't Shichirin be translated? "charcoal stove"}
+
+301
+00:08:02,770 --> 00:08:03,630
+Eh?
+
+302
+00:08:03,630 --> 00:08:05,970
+I can't get off!
+
+303
+00:08:05,970 --> 00:08:06,620
+Eh?
+
+304
+00:08:06,620 --> 00:08:07,670
+My chopsticks are gone!
+
+305
+00:08:07,980 --> 00:08:09,920
+One of my shoes is gone as well!
+
+306
+00:08:11,250 --> 00:08:13,750
+What should I do?!
+
+307
+00:08:15,000 --> 00:08:16,470
+My hand's gone!
+
+308
+00:08:17,870 --> 00:08:21,110
+Now it'll be exposed that I am a robot!
+
+309
+00:08:28,250 --> 00:08:29,500
+Here it goes.
+
+310
+00:08:47,910 --> 00:08:49,360
+Thank you for the food.
+
+311
+00:08:51,830 --> 00:08:55,810
+If you don't finish up quick the bell for fifth period will ring.
+
+312
+00:08:55,810 --> 00:08:56,610
+Huh?
+
+313
+00:08:56,610 --> 00:08:58,220
+You didn't like sausages?
+
+314
+00:09:00,670 --> 00:09:05,660
+Saving the most delicious food for last in a lunch box is fundamental.
+
+315
+00:09:05,660 --> 00:09:09,690
+Then I can finish by saying: "It's delicious".
+
+316
+00:09:10,400 --> 00:09:13,240
+Well then here goes... I'm going to eat it!
+
+317
+00:09:51,480 --> 00:09:52,110
+It came out!
+
+318
+00:09:52,430 --> 00:09:53,440
+Not yet!
+
+319
+00:10:06,430 --> 00:10:07,460
+It's over!
+
+320
+00:10:07,460 --> 00:10:08,750
+Not just yet!
+
+321
+00:10:10,400 --> 00:10:11,090
+One...
+
+322
+00:10:12,060 --> 00:10:13,250
+...two...
+
+323
+00:10:14,380 --> 00:10:15,760
+...three.
+
+324
+00:10:25,160 --> 00:10:26,480
+Safe!
+
+325
+00:10:27,600 --> 00:10:28,980
+You're out!
+
+326
+00:10:30,280 --> 00:10:31,830
+No way Mio-chan!
+
+327
+00:10:31,830 --> 00:10:33,930
+It's the three-second rule the three-second rule.
+
+328
+00:10:33,930 --> 00:10:37,240
+No you were already out way before that!
+
+329
+00:10:43,590 --> 00:10:44,850
+It's delicious!
+
+330
+00:10:47,250 --> 00:10:49,430
+Yukko really is an idiot.
+
+331
+00:10:57,000 --> 00:11:02,270
+First comes rock next comes paper rockscispaper doesn't count
+
+332
+00:11:02,270 --> 00:11:04,430
+rock paper scissors!
+
+333
+00:11:16,110 --> 00:11:16,690
+Yes!
+
+334
+00:11:24,090 --> 00:11:26,450
+Good morning everyone.
+
+335
+00:11:26,450 --> 00:11:30,620
+Spring has come and a new year has started
+
+336
+00:11:30,620 --> 00:11:33,750
+but the cold days are still continuing.
+
+337
+00:11:34,520 --> 00:11:37,760
+In my case I have it twice as cold as everyone else.
+
+338
+00:11:42,040 --> 00:11:45,840
+Anyway make sure you don't catch a cold...
+
+339
+00:11:45,840 --> 00:11:48,640
+This is a promise with your principal okay?
+
+340
+00:11:49,170 --> 00:11:53,600
+If you don't listen then I'll be...
+
+341
+00:11:54,550 --> 00:11:58,730
+...transferred to a different school on principle!
+
+342
+00:12:03,850 --> 00:12:05,450
+Mio-chan Mio-chan.
+
+343
+00:12:05,450 --> 00:12:06,080
+What?
+
+344
+00:12:06,080 --> 00:12:08,080
+He'll get mad if you talk.
+
+345
+00:12:08,080 --> 00:12:13,690
+Say doesn't the principal notice that his jokes are way too old?
+
+346
+00:12:13,690 --> 00:12:19,220
+He must know best of all that his jokes aren't received very well.
+
+347
+00:12:20,070 --> 00:12:21,420
+I wonder about that...
+
+348
+00:12:21,740 --> 00:12:24,630
+Could it be that he knows his jokes aren't received well
+
+349
+00:12:24,630 --> 00:12:29,720
+and is putting on a show of even more
+effort to the young people nowadays?!
+
+350
+00:12:30,180 --> 00:12:32,600
+If that's true then this principal...
+
+351
+00:12:33,110 --> 00:12:34,700
+...is pretty skilful!
+
+352
+00:12:39,810 --> 00:12:40,860
+Mai-chan?!
+
+353
+00:12:43,280 --> 00:12:44,470
+Mai-chan is...?!
+
+354
+00:12:44,470 --> 00:12:46,830
+Could it be because of that old man gag?
+
+355
+00:12:47,960 --> 00:12:52,290
+Above that this is the first time I've ever seen her laughing so hard!
+
+356
+00:12:52,290 --> 00:12:53,030
+All right!
+
+357
+00:12:53,030 --> 00:12:55,000
+This should do it!
+
+358
+00:12:55,000 --> 00:12:56,540
+Mai-chan!
+
+359
+00:13:00,690 --> 00:13:01,920
+Why is it?
+
+360
+00:13:01,920 --> 00:13:05,380
+If I said it here now I feel like I'll lose everything.
+
+361
+00:13:06,510 --> 00:13:07,800
+Yukko.
+
+362
+00:13:09,780 --> 00:13:10,780
+Sorry.
+
+363
+00:13:10,780 --> 00:13:12,640
+Never mind actually.
+
+364
+00:13:18,080 --> 00:13:21,100
+I guess until she notices...
+
+365
+00:13:22,960 --> 00:13:25,020
+...I won't grab it.
+
+366
+00:13:33,470 --> 00:13:38,560
+Well then next is a talk about student guidance from Sakurai-sensei.
+
+367
+00:13:38,560 --> 00:13:41,000
+Sakurai-sensei please.
+
+368
+00:13:42,110 --> 00:13:44,310
+Um Sakurai-sensei?
+
+369
+00:13:44,310 --> 00:13:45,010
+Yes!
+
+370
+00:13:46,080 --> 00:13:49,510
+I'm sorry I'm Sakurai from student counselling...
+
+371
+00:13:50,450 --> 00:13:53,680
+I'm sorry... Eh ah...
+
+372
+00:13:55,210 --> 00:13:58,850
+I get really nervous when there's so many people.
+
+373
+00:13:59,390 --> 00:14:01,250
+No good this is no good!
+
+374
+00:14:01,250 --> 00:14:04,610
+I can't always stand and look like a helpless teacher...
+
+375
+00:14:04,610 --> 00:14:07,110
+I have to say what I need to say properly!
+
+376
+00:14:07,400 --> 00:14:08,910
+I know!
+
+377
+00:14:09,520 --> 00:14:12,910
+Do you often see a goat on the school grounds lately?
+
+378
+00:14:13,610 --> 00:14:17,660
+Let's not take goats with us to the school grounds!
+
+379
+00:14:17,990 --> 00:14:19,420
+What's wrong...
+
+380
+00:14:19,420 --> 00:14:21,500
+What's wrong with goats?!
+
+381
+00:14:23,290 --> 00:14:26,830
+Going to school on a goat isn't prohibited by the school rules
+
+382
+00:14:26,830 --> 00:14:29,430
+am I right?!
+
+383
+00:14:29,920 --> 00:14:32,640
+Eh ah... that is...
+
+384
+00:14:33,030 --> 00:14:36,450
+Mio-chan isn't that Sasahara-senpai?
+
+385
+00:14:36,450 --> 00:14:38,890
+Eh really?
+
+386
+00:14:40,580 --> 00:14:43,900
+No... I'll permit goats!
+
+387
+00:14:49,650 --> 00:14:51,350
+It's rejected rejected!
+
+388
+00:14:51,350 --> 00:14:52,410
+Absolutely rejected!
+
+389
+00:14:52,910 --> 00:14:55,380
+There's no way it's okay to bring a goat to school!
+
+390
+00:14:55,380 --> 00:14:58,410
+You can say that but Tachibana Misato...
+
+391
+00:14:59,200 --> 00:15:02,940
+Why must I rush about on my own two legs?
+
+392
+00:15:02,940 --> 00:15:05,590
+First of all the heir of the Sasahara family...
+
+393
+00:15:05,910 --> 00:15:08,010
+What's that about the heir of the Sasahara family?
+
+394
+00:15:08,010 --> 00:15:10,440
+You guys are just normal farmers!
+
+395
+00:15:10,440 --> 00:15:11,780
+So?
+
+396
+00:15:11,780 --> 00:15:14,180
+What's wrong with the heir saying he's the heir?
+
+397
+00:15:14,650 --> 00:15:18,850
+Heh so Sasahara-kun's family are farmers.
+
+398
+00:15:18,850 --> 00:15:20,690
+I feel like I've been deceived.
+
+399
+00:15:21,440 --> 00:15:26,000
+So that goat at the bike rack was Sasahara-senpai's.
+
+400
+00:15:26,000 --> 00:15:31,300
+Riding a white goat Sasahara-senpai will come and pick me up!
+
+401
+00:15:41,050 --> 00:15:43,220
+A happy new year!
+
+402
+00:15:44,520 --> 00:15:46,630
+M-Me too!
+
+403
+00:15:48,050 --> 00:15:49,050
+Mio-chan!
+
+404
+00:15:55,930 --> 00:16:00,050
+Using a cellphone while riding a bicycle is very dangerous
+
+405
+00:16:00,050 --> 00:16:01,680
+let's stop doing that!
+
+406
+00:16:01,680 --> 00:16:03,020
+And also one last thing...
+
+407
+00:16:03,450 --> 00:16:08,260
+This morning a Maitreya statue was in my shoe locker!
+
+408
+00:16:08,260 --> 00:16:11,360
+I don't think these kind of pranks are good.
+
+409
+00:16:11,360 --> 00:16:13,620
+Excuse us passing through...
+
+410
+00:16:13,620 --> 00:16:15,610
+A Maitreya statue.
+
+411
+00:16:15,610 --> 00:16:16,120
+Mai-chan!
+
+412
+00:16:16,120 --> 00:16:18,700
+Don't stop suddenly!
+
+413
+00:16:22,000 --> 00:16:23,480
+Ah this thing again?
+
+414
+00:16:24,250 --> 00:16:26,380
+It might be déjà vu.
+
+415
+00:16:26,700 --> 00:16:29,060
+Who did it?!
+
+416
+00:16:29,060 --> 00:16:31,540
+I won't get mad so raise your hand!
+
+417
+00:16:31,540 --> 00:16:35,240
+You'll all stay here until he comes forth!
+
+418
+00:16:37,130 --> 00:16:38,070
+Who was it?
+
+419
+00:16:38,070 --> 00:16:39,350
+You go forth.
+
+420
+00:16:45,870 --> 00:16:50,320
+I'm sorry I heard it was Sakurai-sensei's birthday so...{start earlier}
+
+421
+00:16:51,830 --> 00:16:56,660
+I see a Maitreya statue is no good eh?
+
+422
+00:16:58,990 --> 00:17:03,200
+With good intentions on your birthday a present.
+
+423
+00:17:03,200 --> 00:17:06,670
+I'll imagine that you don't need a Maitreya statue.
+
+424
+00:17:06,670 --> 00:17:08,170
+The principal.
+
+425
+00:17:15,470 --> 00:17:18,060
+With this the morning assembly is finished.
+
+426
+00:17:18,060 --> 00:17:21,140
+Thank you very much for your work up until today Principal.
+
+427
+00:17:21,620 --> 00:17:22,810
+Deputy principal?!{check consistency}
+
+428
+00:17:27,320 --> 00:17:31,550
+This fire hydrant button has a really strong magical pull that makes you want to press it doesn't it?
+
+429
+00:17:31,550 --> 00:17:32,690
+Indeed.
+
+430
+00:17:35,130 --> 00:17:36,410
+What if you try pressing it?
+
+431
+00:17:36,410 --> 00:17:39,110
+The alarm didn't go off last time I pressed it.
+
+432
+00:17:39,110 --> 00:17:39,640
+Eh?
+
+433
+00:17:39,640 --> 00:17:40,740
+Really?
+
+434
+00:17:41,770 --> 00:17:42,950
+Fire?
+
+435
+00:17:42,950 --> 00:17:43,800
+No way!
+
+436
+00:17:43,800 --> 00:17:44,730
+What should we do?
+
+437
+00:17:44,730 --> 00:17:45,330
+Are we going to run?
+
+438
+00:17:45,830 --> 00:17:46,450
+Everyone!
+
+439
+00:17:46,450 --> 00:17:47,670
+For now let's go to the court!
+
+440
+00:17:49,870 --> 00:17:52,060
+What are you pushing me aside for?!
+
+441
+00:17:52,060 --> 00:17:53,260
+You're the one pushing me!
+
+442
+00:17:53,260 --> 00:17:54,330
+What're you saying?
+
+443
+00:17:54,330 --> 00:17:56,440
+Besides I've always hated you!
+
+444
+00:17:56,440 --> 00:17:57,420
+Stop it!
+
+445
+00:17:57,420 --> 00:17:58,970
+We might end up dying here!
+
+446
+00:17:58,970 --> 00:18:00,280
+Let's get out of here first!
+
+447
+00:18:00,280 --> 00:18:01,350
+Leave the arguing for later!
+
+448
+00:18:11,340 --> 00:18:12,520
+Um...
+
+449
+00:18:14,600 --> 00:18:16,990
+I'm sorry but what is "KY"?{add TL Note: "KY" is short for "Kuukiyomenai" in Japanese which mean "not considering the situation." iken: more literally unable to read the atmosphere.}
+
+450
+00:18:14,600 --> 00:18:16,990
+TL Note: "KY" is short for "Kuuki Yomenai" meaning "unable to read the atmosphere".
+
+451
+00:18:17,370 --> 00:18:19,100
+Um...
+
+452
+00:18:19,100 --> 00:18:21,120
+What could "KY" be?
+
+453
+00:18:21,120 --> 00:18:24,970
+I'm sorry please tell me about "KY"!
+
+454
+00:18:24,970 --> 00:18:26,500
+Help me someone!
+
+455
+00:18:26,940 --> 00:18:27,660
+Hey!
+
+456
+00:18:27,660 --> 00:18:31,130
+Oh Captain... What could "KY" be?
+
+457
+00:18:31,810 --> 00:18:33,880
+It's referring to you.
+
+458
+00:18:36,170 --> 00:18:39,170
+Second grade Class B Sasahara Koujirou.
+
+459
+00:18:39,170 --> 00:18:43,380
+Please come to the staff room immediately to Tomioka.
+
+460
+00:18:45,420 --> 00:18:51,150
+It's true it's not violating the school rules... But a goat?
+
+461
+00:18:52,190 --> 00:18:53,960
+Can't you do something about it?
+
+462
+00:18:53,960 --> 00:18:55,050
+If you don't like to walk
+
+463
+00:18:55,050 --> 00:18:58,420
+you could come by bicycle... Just as long as it's not a goat.
+
+464
+00:18:58,420 --> 00:18:59,280
+Sir.
+
+465
+00:18:59,280 --> 00:19:00,510
+It's Tomioka.
+
+466
+00:19:00,510 --> 00:19:01,490
+Tomioka.
+
+467
+00:19:01,490 --> 00:19:02,780
+Add sensei to it.
+
+468
+00:19:03,380 --> 00:19:04,650
+Sensei.
+
+469
+00:19:04,650 --> 00:19:08,790
+Can you call him Sasahara Kojirou and not goat?
+
+470
+00:19:14,180 --> 00:19:16,420
+He is a goat for now.
+
+471
+00:19:20,470 --> 00:19:22,930
+My name is Shinonome Nano.
+
+472
+00:19:23,740 --> 00:19:27,930
+I'm a robot created by Professor whom I live with.
+
+473
+00:19:29,930 --> 00:19:32,860
+Professor seems to be doing some kind of research
+
+474
+00:19:32,860 --> 00:19:34,730
+and is at home all day.
+
+475
+00:19:35,480 --> 00:19:39,690
+I spend my days while also helping out the professor.
+
+476
+00:19:41,830 --> 00:19:42,820
+Professor!
+
+477
+00:19:42,820 --> 00:19:44,870
+I warmed up the milk{\fscx300}-{\r}
+
+478
+00:19:47,210 --> 00:19:51,790
+I don't have any special features but it seems like I can still feel pain.
+
+479
+00:19:52,120 --> 00:19:54,790
+Nano what's wrong?
+
+480
+00:19:54,790 --> 00:19:55,880
+Professor!
+
+481
+00:19:55,880 --> 00:19:56,970
+My little toe...!
+
+482
+00:19:56,970 --> 00:19:57,960
+My little toe was...!
+
+483
+00:19:58,270 --> 00:20:02,970
+Y-Your l-little toe was...!
+
+484
+00:20:06,280 --> 00:20:08,720
+With this you should be fine for now.
+
+485
+00:20:08,720 --> 00:20:10,250
+Eh?!
+
+486
+00:20:10,250 --> 00:20:12,480
+I don't have any special features
+
+487
+00:20:12,480 --> 00:20:14,230
+but it seems like you can take off my little toe.
+
+488
+00:20:20,080 --> 00:20:23,530
+Professor what's this key for?
+
+489
+00:20:23,860 --> 00:20:26,120
+I didn't turn it?
+
+490
+00:20:26,120 --> 00:20:28,910
+Ah yes it turns sometimes.
+
+491
+00:20:29,640 --> 00:20:32,750
+You turn it like this.
+
+492
+00:20:32,750 --> 00:20:35,130
+Ah what's going on?!
+
+493
+00:20:39,940 --> 00:20:43,650
+I'm sorry I'm full of special features.
+
+494
+00:20:43,650 --> 00:20:45,750
+See it's something interesting isn't it?
+
+495
+00:20:45,750 --> 00:20:49,360
+Could it be that you made the key just for this?
+
+496
+00:20:49,360 --> 00:20:51,030
+Yup.
+
+497
+00:20:51,030 --> 00:20:53,990
+Could it be that you made the key just for this?!
+
+498
+00:20:53,990 --> 00:20:55,080
+Yup!
+
+499
+00:20:55,080 --> 00:20:56,060
+Take it off please!
+
+500
+00:20:56,060 --> 00:20:56,810
+No way!
+
+501
+00:20:56,810 --> 00:20:57,610
+Eh?!
+
+502
+00:20:58,190 --> 00:20:59,980
+Because it's cute.
+
+503
+00:20:59,980 --> 00:21:01,570
+Remove it from my back please!
+
+504
+00:21:02,030 --> 00:21:04,400
+Eh... But it's cute...
+
+505
+00:21:04,950 --> 00:21:07,860
+I want to be more normal. {iken: wrong TL here and next 2 lines. corrected}
+
+506
+00:21:07,860 --> 00:21:10,720
+I want to sit on a chair like a normal person
+
+507
+00:21:10,720 --> 00:21:12,700
+and turn over when I sleep.
+
+508
+00:21:14,150 --> 00:21:17,290
+With this I can't even go to school.
+
+509
+00:21:18,210 --> 00:21:22,340
+I would've been okay with not being a human-type robot at all.
+
+510
+00:21:22,950 --> 00:21:24,410
+Nano...
+
+511
+00:21:28,220 --> 00:21:30,370
+I-It's just a lie!
+
+512
+00:21:30,370 --> 00:21:31,500
+A lie!
+
+513
+00:21:31,500 --> 00:21:34,000
+Don't take it seriously Professor!
+
+514
+00:21:34,000 --> 00:21:35,490
+Then take it... {iken: corrected. Over here it sounds like hakase will remove the key. But two lines down it's a different meaning with the some starting words.}
+
+515
+00:21:35,490 --> 00:21:36,020
+Eh?
+
+516
+00:21:36,020 --> 00:21:37,850
+Go and win the Akutagawa Award for Literature!
+
+517
+00:21:37,850 --> 00:21:39,150
+Why?!
+
+518
+00:21:39,150 --> 00:21:41,260
+Win the Akutagawa Award!
+
+519
+00:21:41,260 --> 00:21:43,650
+Every day is like that.
+
+520
+00:21:49,640 --> 00:21:52,410
+Where am I?{missing line iken: it's right here}
+
+521
+00:23:27,000 --> 00:23:28,040
+Hello!
+
+522
+00:23:28,040 --> 00:23:30,580
+This is Nano-chan's big toe!
+
+523
+00:23:30,580 --> 00:23:32,560
+My capacity is one gigabyte.
+
+524
+00:23:32,560 --> 00:23:35,650
+I would've preferred to be a bit bigger...
+
+525
+00:23:35,650 --> 00:23:38,430
+The next episode of Nichijou is episode two.
+
+526
+00:23:38,430 --> 00:23:40,040
+Please look forward to it!
