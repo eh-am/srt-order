@@ -61,6 +61,9 @@ func Process(filepath string, inPlace bool) error {
 				c = Chunk{}
 				c.Content = make([]string, 0)
 
+				if len(scanner.Text()) <= 0 {
+					return fmt.Errorf("broken line: '%s'", scanner.Text())
+				}
 				c.SeqNumber = scanner.Text()
 				currPosition = Timestamp
 				continue
@@ -94,6 +97,12 @@ func Process(filepath string, inPlace bool) error {
 			{
 				// TODO: check if blank line
 				if len(scanner.Text()) <= 0 {
+					if len(c.Content) <= 0 {
+						// ugly
+						c.Content = append(c.Content, " ")
+						continue
+					}
+
 					// commit
 					chunks = append(chunks, c)
 					currPosition = SeqNumber

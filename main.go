@@ -22,7 +22,7 @@ func main() {
 	for _, f := range values {
 		err := internal.Process(f, *inPlace)
 		if err != nil {
-			fmt.Fprintf(os.Stderr, "err: %v\n", err)
+			fmt.Fprintf(os.Stderr, "err in file %s: %v\n", f, err)
 			os.Exit(1)
 		}
 	}
